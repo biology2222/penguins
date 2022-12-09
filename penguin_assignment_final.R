@@ -21,7 +21,7 @@ anova(penguinmodel1)
 #This is evident form the fact that all the p values are under 0.05 so we can say with 95%
 #confidnece that these results were not down to chance
 
-#ere I source the plotting functions to make a regression plot of my linear model
+#here I source the plotting functions to make a regression plot of my linear model
 
 source("functions/plotting.functions.R")
 
