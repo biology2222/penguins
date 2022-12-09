@@ -35,7 +35,7 @@ agg_png("figures/fig01_16x12_penguin.png",
 penguin_figure
 dev.off()
 
-#here is a function for saving the figure, This code is also in the plot functions
+#here is a function for saving the figure, this code is also in the plot functions
 
 save_penguin_plot_png <- function(culmen_flippers_species, 
                                   filename, size, res, scaling){
